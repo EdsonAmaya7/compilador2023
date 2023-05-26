@@ -1,0 +1,11 @@
+{
+integer x;y;z;
+string a;b;c;
+boolean v1;v2;v3;
+}
+
+main ->{
+        while(x<:y){
+            z:=>10
+        }
+}

@@ -1,0 +1,12 @@
+begin {
+    x = #10# : integer;
+}
+for (i = #0#; i<=x; i ++) {
+    print(i).
+
+    while (contador <= #10#) {
+        print(i).
+    }.
+}.
+end
+$
